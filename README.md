@@ -1,8 +1,7 @@
 ### :v: olá! tudo bem?
+:sunflower:
+Olá! Me chamo Ana Aleixo e estou embarcando em uma jornada de Data Science e inovação, com o objetivo de melhorar a gestão do negócio voltada para o cliente. Constantemente busco formas de aprender coisas novas e aprimorar minhas habilidades. Acredito que uma das coisas mais valiosas que podemos fazer é compartilhar nossas experiências e conhecimentos com outras pessoas, para que todos possamos crescer e criar novas maneiras de ajudar o mundo. Acredito que essa colaboração é fundamental para o sucesso em qualquer área, especialmente em Data Science e inovação. Estou animada para fazer parte dessa comunidade de aprendizado e contribuir com meu conhecimento! 🌻
 
-Meu nome é Ana Aleixo! Embarcando na jornada de data science e inovação, com foco na gestão do negócio voltado para o cliente. 
-
-:sunflower: estou sempre buscando formas de aprender coisas novas e melhorar minhas habilidades. acredito que uma das melhores coisas do mundo está em compartilhar nossas experiências e nossos conhecimentos com outras pessoas para que todos possamos crescer e criar novas formas de ajudar o mundo.
 
 ![tati's github stats](https://github-readme-stats.vercel.app/api?username=AnaAleixo&count_private=true&show_icons=true&theme=calm)
 
